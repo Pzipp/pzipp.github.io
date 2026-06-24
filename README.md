@@ -10,5 +10,4 @@ Connects to an IMAP mailbox, classifies incoming emails using a local or cloud L
 and creates Google Tasks with deadlines and priorities — without ever deleting,
 reading, or replying to a single email.
 
-### [homelab](https://github.com/pzipp/homelab)
-Docker Compose stacks and configuration for self-hosted services running on my home server.
+
